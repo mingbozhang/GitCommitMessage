@@ -11,3 +11,15 @@ intellij {
     plugins 'git4idea'
     pluginName 'GitCommitMessage'
 }
+
+repositories {
+    flatDir {
+        dirs 'lib'
+    }
+}
+
+dependencies {
+    // Your might already have other librarires/dependencies here you should leave them
+    // as they are and just add your on new line
+    compile (name:'hg4idea-142.1', ext:'jar')
+}

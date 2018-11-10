@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitCommitMessage.iml" filepath="$PROJECT_DIR$/.idea/modules/GitCommitMessage.iml" />
       <module fileurl="file://$PROJECT_DIR$/GitCommitMessagePlugin.iml" filepath="$PROJECT_DIR$/GitCommitMessagePlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitCommitMessage_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GitCommitMessage_main.iml" group="GitCommitMessage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitCommitMessage_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GitCommitMessage_test.iml" group="GitCommitMessage" />
     </modules>
   </component>
 </project>
